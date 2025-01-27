@@ -1,0 +1,17 @@
+{
+    "car_numbers": [
+        {
+            "number": "01:A777AA:UZB",
+            "price": 1000.0,
+            "status": "Available"
+        }
+    ],
+    "users": [
+        {
+            "username": "Aziz",
+            "address": "Tashkent",
+            "purchased_numbers": []
+        }
+    ],
+    "sales": []
+}
